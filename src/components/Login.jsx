@@ -15,7 +15,7 @@ import {
   Login as LoginIcon,
   Security as SecurityIcon
 } from '@mui/icons-material';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo-color.png';
 import { useNavigate } from 'react-router-dom';
 
 export default function Login() {
